@@ -1,0 +1,20 @@
+# Flask-related packages
+Flask==2.0.3
+Flask-SQLAlchemy==2.5.1
+Flask-JWT-Extended==4.4.4
+Werkzeug==2.0.3
+python-dotenv==0.19.2
+
+# Testing tools
+pytest==7.1.2
+pytest-flask==1.2.0
+requests==2.27.1
+
+# Database packages
+SQLAlchemy==1.4.36
+
+# File uploads
+Werkzeug==2.0.3
+
+# Optional packages (if needed for specific functionalities)
+flask-cors==3.0.10  # For enabling CORS in your Flask app
